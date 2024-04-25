@@ -1,6 +1,6 @@
 # Gasprom_sling_angle
 <center> <img src = https://stavropol.termaxpanel.ru/wa-data/public/photos/79/09/979/979.1080.png alt="drawing" style="width:400px;">
-<center> <img src = https://mail.gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-logotip-mfti-na-prozrachnom-fone-1.png alt="drawing" style="width:400px;">
+<center> <img src = https://static.tildacdn.com/tild3930-3834-4530-a365-656331396337/mfti.png alt="drawing" style="width:400px;">
 
 ## Цель данного проекта - детекция строп и угла между ними при погрузочных-разгрузочных работах 
 
